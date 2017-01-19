@@ -1,0 +1,26 @@
+body {
+	background-color: #758a99;
+}
+h1{
+    font-weight: bold;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #1c2a35;
+}
+h2{
+    font-weight: bold;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #1c2a35;
+}
+h3{
+    color: #1c2a35;
+}
+img{
+    border: 3px solid #355064;
+}
+address{
+    color: #1c2a35;
+}
