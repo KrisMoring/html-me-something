@@ -1,5 +1,6 @@
 body {
 	background-color: #758a99;
+    margin: 10px 20px;
 }
 h1{
     font-weight: bold;
@@ -23,4 +24,17 @@ img{
 }
 address{
     color: #1c2a35;
+}
+#Einstein{
+    height: 300px;
+    width: 400px;
+}
+#Iam{
+    height: 300px;
+}
+.pics{
+    height: 200px;
+    width: 300px;
+    margin-right: 150px;
+    margin-left: 150px;
 }
